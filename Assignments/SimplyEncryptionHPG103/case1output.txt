@@ -1,0 +1,12 @@
+hpg103@fox01:~/cs4663/SimplyEncryptionHPG103$ python3 caesarcipher.py
+Enter your message: UTSA, Birds up!
+Enter your key: NPB
+
+Encrypted message: -163-164-149-143-124-98-144-185-180-178-195-98-195-192-99
+
+
+Encrypted string: £¤��|b�¹´²ÃbÃÀc
+
+
+Decrypted string: UTSA, Birds up!
+

@@ -1,0 +1,12 @@
+hpg103@fox01:~/cs4663/SimplyEncryptionHPG103$ python3 caesarcipher.py
+Enter your message: Being a hacker is fun
+Enter your key: But risky
+
+Encrypted message: -132-218-221-142-217-137-212-139-225-163-216-223-133-228-137-220-222-153-168-234-226
+
+
+Encrypted string: �ÚÝ�Ù�Ô�á£Øß�ä�ÜÞ�¨êâ
+
+
+Decrypted string: Being a hacker is fun
+

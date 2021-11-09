@@ -1,0 +1,12 @@
+hpg103@fox01:~/cs4663/SimplyEncryptionHPG103$ python3 caesarcipher.py
+Enter your message: True
+Enter your key: Today is a happy day
+
+Encrypted message: -168-225-217-198
+
+
+Encrypted string: ¨áÙÆ
+
+
+Decrypted string: True
+
